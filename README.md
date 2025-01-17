@@ -47,9 +47,9 @@ Optimize visualization by adjusting axis range
 Create scatter plot comparing mean hourly pay gap and bonus gap  
 Add regression line to show relationship trend  
 
-8.Data visualisation: Bonus gap across different pay quartiles  
-Calculate bonus gap between genders for each pay quartile  
-Create heatmap showing bonus gap distribution across quartiles  
+8.Data visualisation: Gender proportion gap across pay quartiles    
+calculate gender proportion gap for each quartile  
+Create heatmap showing gender proportion gap across quartiles  
 
 9.Data visualisation: Annual trend of gender pay gap  
 Convert and extract year from submission dates  
