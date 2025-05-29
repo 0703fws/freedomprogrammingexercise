@@ -61,7 +61,7 @@ Create line chart with markers showing pay gap trends over time
 
 **The list of files**  
 README.md  
-paygap.csv
+paygap.csv  
 paygap_analysis.ipynb  
 paygap_analysis.pptx
 
